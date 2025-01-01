@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Hostel-Management-System]([https://github.com/ajardeen/Hostel-Management-Frontend])
+- 🔭 I’m currently working on [College-Placement-System]
 
 - 🌱 I’m currently learning **MERN Stack**
 
