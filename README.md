@@ -2,11 +2,6 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 
-
-- 🔭 I’m currently working on [Portfolio]
-
-- 🌱 I’m currently learning **MERN Stack**
-
 - 📫 How to reach me **mnazar87540@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
