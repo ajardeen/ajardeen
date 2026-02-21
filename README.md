@@ -1,5 +1,5 @@
 <h1 align="left" style="color:gray">Hi, I'm  <a style="color:#539DDB; font-weight:bold; font-size:1.0em; letter-spacing:3px; font-family:monospace;" 
-       href="https://mohamed-ajardeen-portfolio.netlify.app/" target="_blank"
+       href="https://ajardeen.netlify.app/" target="_blank"
 >
        AJARDEEN
     </a></h1>
