@@ -28,7 +28,7 @@ Full Stack Developer with hands-on experience designing frontend interfaces, bac
   <li>
     View my work at 
     <a style="color:lightblue; font-weight:bold; font-size:1.2em;" 
-       href="https://mohamed-ajardeen-portfolio.netlify.app/" target="_blank"
+       href="https://ajardeen.netlify.app/" target="_blank"
 >
        Portfolio
     </a>
